@@ -8,4 +8,4 @@
 - 📫 I live on my own server with presence on [ActivityPub](https://mastodon.social/@amstalks) and [Matrix](https://matrix.to/#/@amstalks:matrix.org) protocols.
 - ⚡ Finally, I mainly depend on Codeberg and Gitea instead of GitHub for version controlling. However, this account is just for exploring and showcasing. Join the free-culture movement and participate in open innovation for public benefit.
 
-#### ➡ Visit my portfolio on [codeberg.org/amstalks](https://codeberg.org/amstalks) and [gitea.com/amstalks](https://gitea.com/amstalks)
+#### ➡ Visit my <a target="_blank" rel="noopener noreferrer" href="https://codeberg.org/amstalks">codeberg.org/amstalks</a> and <a target="_blank" rel="noopener noreferrer" href="https://gitea.com/amstalks">gitea.com/amstalks</a> public repositories
