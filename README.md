@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on several commercial projects in stealth mode.
+- 🔭 I’m currently working on personal and commercial projects in stealth mode.
 - 🌱 I’m currently learning Qt6 (with C++17), Elixir lang and Phoenix framework.
 - 👯 I’m looking to collaborate on knowledge commons, Web3 and the Fediverse.
 - 🤔 I’m looking for help with open education, teleworking and crowdfunding.
